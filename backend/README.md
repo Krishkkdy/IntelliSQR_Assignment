@@ -61,8 +61,8 @@ src/
    npm run tsx src/scripts/createUser.ts
    ```
    This creates a test user:
-   - Email: jay@example.com
-   - Password: jay1234
+   - Email: krishkkdy12@example.com
+   - Password: Smitkkdy@11
 
 ## Running Locally
 
